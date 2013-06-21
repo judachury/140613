@@ -1,4 +1,0 @@
-calculatorTraining
-==================
-
-Calculator Training
